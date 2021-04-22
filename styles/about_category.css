@@ -1,0 +1,498 @@
+.mediaViewInfo {
+	--web-view-name: about-category;
+	--web-view-id: about-category;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: about-category;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#about-category {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(252,252,252,1);
+	overflow: hidden;
+	--web-view-name: about-category;
+	--web-view-id: about-category;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_13_xz {
+	position: absolute;
+	width: 1920px;
+	height: 206px;
+	left: 0px;
+	top: 874px;
+	overflow: visible;
+}
+#Rectangle_50_ya {
+	opacity: 0.7;
+	fill: url(#Rectangle_50_ya);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50_ya {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 206px;
+	left: 0px;
+	top: 0px;
+}
+#_Copyright_Productz_Hunt_Mini__x {
+	left: 612px;
+	top: 128px;
+	position: absolute;
+	overflow: visible;
+	width: 697px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -16.5px;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Home_x {
+	left: 921px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	transition: all 0.2s ease-in-out;
+	--web-animation: fadein 0.2s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	line-height: 63px;
+	margin-top: -16.5px;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(87,85,85,0.91);
+}
+#Why_our_Product_x {
+	opacity: 0.25;
+	left: 751px;
+	top: 189.5px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	line-height: 106px;
+	margin-top: -26.5px;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 53px;
+	color: rgba(58,95,242,1);
+}
+#Rectangle_53_x {
+	opacity: 0.25;
+	position: absolute;
+	width: 582px;
+	height: 580px;
+	left: 89px;
+	top: 227px;
+	overflow: visible;
+}
+#About_us_A_team_which_work_tow_x {
+	opacity: 0.25;
+	left: 756px;
+	top: 306px;
+	position: absolute;
+	overflow: visible;
+	width: 1093px;
+	height: 530px;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_26_x {
+	opacity: 0.85;
+	position: absolute;
+	width: 1920px;
+	height: 615px;
+	left: 0px;
+	top: 119px;
+	overflow: visible;
+}
+#Component_1__6 {
+	opacity: 0.9;
+	position: absolute;
+	width: 1920px;
+	height: 615px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_51_ya {
+	opacity: 0.7;
+	fill: url(#Rectangle_51_ya);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51_ya {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 615px;
+	left: 0px;
+	top: 0px;
+}
+#Electronics_yb {
+	left: 225px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: mainpage_list_scroll_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Mobiles_yc {
+	left: 225px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#TV_yd {
+	left: 225px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Computers_ye {
+	left: 225px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Refrigerators_yf {
+	left: 684px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Air_Conditioners_yg {
+	left: 684px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: mainpage_list_scroll_2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Fashion_yh {
+	left: 684px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Household_yi {
+	left: 684px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Health_yj {
+	left: 1142px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Kitchen_yk {
+	left: 1142px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Books_yl {
+	left: 1142px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Toys_ym {
+	left: 1142px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_1439 {
+	position: absolute;
+	width: 1920px;
+	height: 256px;
+	left: 0px;
+	top: -56px;
+	overflow: visible;
+}
+#Group_20 {
+	position: absolute;
+	width: 1920px;
+	height: 256px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_12_yp {
+	position: absolute;
+	width: 1920px;
+	height: 121px;
+	left: 0px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1_yr {
+	opacity: 0.7;
+	fill: url(#Rectangle_1_yr);
+}
+.Rectangle_1_yr {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 121px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_2_ys {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2_ys {
+	position: absolute;
+	overflow: visible;
+	width: 841px;
+	height: 76px;
+	left: 749px;
+	top: 27px;
+}
+#Icon_ionic-ios-search_yt {
+	fill: rgba(0,0,0,1);
+}
+.Icon_ionic-ios-search_yt {
+	overflow: visible;
+	position: absolute;
+	width: 39.961px;
+	height: 39.971px;
+	left: 1523.019px;
+	top: 45.014px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1_yu {
+	position: absolute;
+	width: 88px;
+	height: 84px;
+	left: 1788px;
+	top: 23px;
+	overflow: visible;
+	transition: all 0.3s snap;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: page;
+	--web-action-target: login.html;
+	cursor: pointer;
+}
+#bx-menu-alt-left_yv {
+	fill: rgba(0,0,0,1);
+}
+.bx-menu-alt-left_yv {
+	overflow: visible;
+	position: absolute;
+	width: 59.249px;
+	height: 44.437px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,48.6936,42.7817) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	transition: all 0.2s ease-in-out;
+	--web-animation: fadein 0.2s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: about.html;
+	cursor: pointer;
+}
+#Group_15_yw {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: 281px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: page;
+	--web-action-target: index_category.html;
+	cursor: pointer;
+}
+#Union_1_yx {
+	fill: rgba(255,255,255,1);
+}
+.Union_1_yx {
+	overflow: visible;
+	position: absolute;
+	width: 111.668px;
+	height: 172.086px;
+	transform: translate(-281px, 56px) matrix(1,0,0,1,355.986,-22.7775) rotate(82deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Produtz_Hunt_yy {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Search_for_a_product_to_compar_yz {
+	opacity: 0.64;
+	left: 806px;
+	top: 96px;
+	position: absolute;
+	overflow: visible;
+	width: 460px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}

@@ -1,0 +1,1322 @@
+.mediaViewInfo {
+	--web-view-name: mainpage-category-product-showcase-2;
+	--web-view-id: mainpage-category-product-showcase-2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: mainpage-category-product-showcase-2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#mainpage-category-product-showcase-2 {
+	position: absolute;
+	width: 1920px;
+	height: 5457px;
+	background-color: rgba(252,252,252,0.902);
+	overflow: hidden;
+	--web-view-name: mainpage-category-product-showcase-2;
+	--web-view-id: mainpage-category-product-showcase-2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_41_cez {
+	position: absolute;
+	width: 1593px;
+	height: 4010px;
+	left: 164px;
+	top: 250px;
+	overflow: visible;
+}
+#Card_ce {
+	opacity: 0.62;
+	position: absolute;
+	width: 1593px;
+	height: 4010px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_ce {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_ce {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Area_ce {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 1601px;
+	height: 4018px;
+	left: 0px;
+	top: 0px;
+}
+#Button_Large_ce {
+	position: absolute;
+	width: 486.549px;
+	height: 128.308px;
+	left: 578.726px;
+	top: 835.293px;
+	overflow: visible;
+}
+#Rectangle_119_ce {
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_119_ce {
+	position: absolute;
+	overflow: visible;
+	width: 486.549px;
+	height: 128.308px;
+	left: 0px;
+	top: 0px;
+}
+#BUTTON_ce {
+	left: 199.297px;
+	top: 32.449px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 56px;
+	color: rgba(255,255,255,1);
+}
+#rect-dataimagejpegbase649j4AAQ_chn {
+	position: absolute;
+	width: 665px;
+	height: 238px;
+	left: 822px;
+	top: 385px;
+	overflow: visible;
+}
+#Rectangle_62_ce {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_62_ce {
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 243px;
+	left: 103px;
+	top: 261px;
+}
+#Rectangle_63_ce {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63_ce {
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 243px;
+	left: 103px;
+	top: 539px;
+}
+#Rectangle_64_ce {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_64_ce {
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 243px;
+	left: 432px;
+	top: 392px;
+}
+#Blue_Star_AC__cfa {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 103px;
+	top: 104px;
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#remote_cfb {
+	position: absolute;
+	width: 80px;
+	height: 200px;
+	left: 200px;
+	top: 561px;
+	overflow: visible;
+}
+#Chcek_cfc {
+	position: absolute;
+	width: 240px;
+	height: 180.5px;
+	left: 119.5px;
+	top: 292.25px;
+	overflow: visible;
+}
+#ID4_cfd {
+	left: 527px;
+	top: 481px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Cambria Math;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_65_cfe {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_65_cfe {
+	filter: drop-shadow(0px 3px 6px rgba(45, 40, 40, 0.212));
+	position: absolute;
+	overflow: visible;
+	width: 1319px;
+	height: 407px;
+	left: 172px;
+	top: 3520px;
+}
+#Price_Graph_cff {
+	left: 162px;
+	top: 3329px;
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(0,0,0,1);
+}
+#Specifications_cfg {
+	left: 103px;
+	top: 994px;
+	position: absolute;
+	overflow: visible;
+	width: 455px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_66_cfh {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(60,52,52,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_66_cfh {
+	position: absolute;
+	overflow: visible;
+	width: 1421px;
+	height: 2096px;
+	left: 103px;
+	top: 1152px;
+}
+#Copper_Coil_cfi {
+	left: 303px;
+	top: 1396px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfj {
+	left: 303px;
+	top: 1651px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfk {
+	left: 305px;
+	top: 1906px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfl {
+	left: 303px;
+	top: 2111px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfm {
+	left: 305px;
+	top: 2366px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfn {
+	left: 305px;
+	top: 2621px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfo {
+	left: 901px;
+	top: 1478px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfp {
+	left: 901px;
+	top: 1810px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfq {
+	left: 901px;
+	top: 2142px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Copper_Coil_cfr {
+	left: 901px;
+	top: 2474px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	line-height: 93px;
+	margin-top: -24px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Icon_cfs {
+	position: absolute;
+	width: 77.357px;
+	height: 73.569px;
+	left: 701.643px;
+	top: 115.715px;
+	overflow: visible;
+}
+#Path_cft {
+	fill: rgba(255,215,0,0.8);
+	stroke: rgba(62,62,62,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_cft {
+	overflow: visible;
+	position: absolute;
+	width: 79.023px;
+	height: 75.235px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID41_cfu {
+	mix-blend-mode: darken;
+	left: 593.853px;
+	top: 128.787px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Britannic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	color: rgba(0,0,0,1);
+}
+#ID25940_cfv {
+	mix-blend-mode: darken;
+	left: 191px;
+	top: 858px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Britannic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 62px;
+	color: rgba(0,0,0,1);
+}
+#Group_13_cfw {
+	position: absolute;
+	width: 1920px;
+	height: 206px;
+	left: 0px;
+	top: 5251px;
+	overflow: visible;
+}
+#Rectangle_50_cfy {
+	opacity: 0.7;
+	fill: url(#Rectangle_50_cfy);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50_cfy {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 206px;
+	left: 0px;
+	top: 0px;
+}
+#_Copyright_Productz_Hunt_Mini__cfz {
+	left: 612px;
+	top: 128px;
+	position: absolute;
+	overflow: visible;
+	width: 697px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -16.5px;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Home_cf {
+	left: 921px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	transition: all 0.3s snap;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: page;
+	--web-action-target: index_category.html;
+	cursor: pointer;
+	line-height: 63px;
+	margin-top: -16.5px;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(87,85,85,0.91);
+}
+#_cf {
+	left: 138px;
+	top: 223px;
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_18_cf {
+	position: absolute;
+	width: 1920px;
+	height: 256px;
+	left: 0px;
+	top: -56px;
+	overflow: visible;
+}
+#Group_12_cf {
+	position: absolute;
+	width: 1920px;
+	height: 121px;
+	left: 0px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1_cga {
+	opacity: 0.7;
+	fill: url(#Rectangle_1_cga);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_cga {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 121px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_2_cf {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_cf {
+	position: absolute;
+	overflow: visible;
+	width: 841px;
+	height: 76px;
+	left: 749px;
+	top: 27px;
+}
+#Icon_ionic-ios-search_cf {
+	fill: rgba(0,0,0,1);
+}
+.Icon_ionic-ios-search_cf {
+	overflow: visible;
+	position: absolute;
+	width: 39.961px;
+	height: 39.971px;
+	left: 1523.02px;
+	top: 45.015px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1_cf {
+	position: absolute;
+	width: 88px;
+	height: 84px;
+	left: 1788px;
+	top: 23px;
+	overflow: visible;
+}
+#bx-menu-alt-left_cf {
+	fill: rgba(0,0,0,1);
+}
+.bx-menu-alt-left_cf {
+	overflow: visible;
+	position: absolute;
+	width: 59.249px;
+	height: 44.437px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,48.6936,42.7817) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	transition: all 0.3s snap;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: page;
+	--web-action-target: mainpage_product_showcase_2.html;
+	cursor: pointer;
+}
+#Group_15_cga {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: 281px;
+	top: 0px;
+	overflow: visible;
+	transition: all 0.3s snap;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: page;
+	--web-action-target: index_category.html;
+	cursor: pointer;
+}
+#Union_1_cgb {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_cgb {
+	overflow: visible;
+	position: absolute;
+	width: 111.668px;
+	height: 172.086px;
+	transform: translate(-281px, 56px) matrix(1,0,0,1,355.986,-22.7775) rotate(82deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Produtz_Hunt_cgc {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_26_cgd {
+	opacity: 0.85;
+	position: absolute;
+	width: 1920px;
+	height: 615px;
+	left: 0px;
+	top: 119px;
+	overflow: visible;
+}
+#Component_1__9 {
+	opacity: 0.9;
+	position: absolute;
+	width: 1920px;
+	height: 615px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_51_cgg {
+	opacity: 0.7;
+	fill: url(#Rectangle_51_cgg);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51_cgg {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 615px;
+	left: 0px;
+	top: 0px;
+}
+#Electronics_cgh {
+	left: 225px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	transition: all 0.3s snap;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: page;
+	--web-action-target: mainpage_list_scroll_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Mobiles_cgi {
+	left: 225px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#TV_cgj {
+	left: 225px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Computers_cgk {
+	left: 225px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Refrigerators_cgl {
+	left: 684px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Air_Conditioners_cgm {
+	left: 684px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: mainpage_list_scroll_2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Fashion_cgn {
+	left: 684px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Household_cgo {
+	left: 684px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Health_cgp {
+	left: 1142px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Kitchen_cgq {
+	left: 1142px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Books_cgr {
+	left: 1142px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Toys_cgs {
+	left: 1142px;
+	top: 478px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_27_cgt {
+	position: absolute;
+	width: 1403px;
+	height: 693px;
+	left: 259px;
+	top: 4427px;
+	overflow: visible;
+}
+#Group_31_cgu {
+	position: absolute;
+	width: 1403px;
+	height: 693px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Card_cgv {
+	position: absolute;
+	width: 1377px;
+	height: 693px;
+	left: 26px;
+	top: 0px;
+	overflow: hidden;
+}
+#Card_cgw {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_cgx {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_cgy {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	transition: all 0.3s snap;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: page;
+	--web-action-target: mainpage_list_scroll_2.html;
+	cursor: pointer;
+}
+#Card_cgz {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 348px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_cg {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_cg {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Card_cg {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 696px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_cha {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_cha {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Card_cha {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 1044px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_chb {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_chb {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Card_chb {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 348px;
+	overflow: visible;
+}
+#METADATA_chc {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_chc {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Card_chc {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 348px;
+	top: 348px;
+	overflow: visible;
+}
+#METADATA_chd {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_chd {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Card_che {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 696px;
+	top: 348px;
+	overflow: visible;
+}
+#METADATA_chf {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_chg {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Card_chh {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 1044px;
+	top: 348px;
+	overflow: visible;
+}
+#METADATA_chi {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_chj {
+	filter: drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Air_conditioners_chk {
+	left: 0px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	white-space: nowrap;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: mainpage_list_scroll_2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Refrigerators_chl {
+	left: 361px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Mobiles_chm {
+	left: 761px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Computers_chn {
+	left: 1076px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Health_cho {
+	left: 80px;
+	top: 602px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Household_chp {
+	left: 362px;
+	top: 602px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Fashion_chq {
+	left: 752px;
+	top: 602px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Books_chr {
+	left: 1119px;
+	top: 602px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
