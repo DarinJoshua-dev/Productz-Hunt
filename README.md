@@ -1,6 +1,6 @@
 # Productz-Hunt
 
-Productz Hunt is an interactive website for product comparison in Flipkart and Amazon
+Productz Hunt is an interactive and intuitive website for product comparison in Flipkart and Amazon
 
 ## Contributors:
 
