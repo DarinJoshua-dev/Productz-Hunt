@@ -11,5 +11,6 @@ Productz Hunt is an interactive, intuitive product and price comparison webapp u
 <li>
 <li>
 <li>
-<li></ul>
+<li>
+</ul>
 
