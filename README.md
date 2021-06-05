@@ -8,7 +8,7 @@ Productz Hunt is an interactive, intuitive product & price comparison web applic
 
 <ul><li><a href="https://github.com/DarinJoshua-dev">Darin Joshua D</a>
 <li><a href="">Gladwin Joseph Solomon</a>
-<li>
+<li><a href="">Isaac G</a>
 <li>
 <li>
 <li>
