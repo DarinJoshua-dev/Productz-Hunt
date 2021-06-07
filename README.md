@@ -10,7 +10,7 @@ Productz Hunt is an interactive, intuitive product & price comparison web applic
 <li><a href="">Gladwin Joseph Solomon</a>
 <li><a href="">Isaac G</a>
 <li><a href="">Joel Nithish Kumar</a>
-<li>
+<li><a href="">Balaji R</a>
 <li>
 </ul>
 
