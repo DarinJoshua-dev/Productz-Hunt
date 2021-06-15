@@ -2,7 +2,7 @@
 
 Productz Hunt is an interactive, intuitive product & price comparison web application that is used for searching a variety of diverse products in Flipkart & Amazon.
 
-## contributors:
+## Contributors:
 
 <img src="https://img.shields.io/badge/Contributors-6-lightgreen">
 
