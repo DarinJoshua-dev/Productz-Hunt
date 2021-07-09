@@ -11,6 +11,6 @@ Productz Hunt is a very interactive, intuitive product & price comparison web ap
 <li><a href="https://github.com/JoelNithishKumar">Joel Nithish Kumar</a>
 <li><a href="https://github.com/isaacgn">Isaac G</a>
 <li><a href="https://github.com/Balaji036">Balaji R</a>
-<li><a href="">Jebastin Stephen Sarjin John</a>
+<li><a href="https://github.com/Jebastin-stephen">Jebastin Stephen Sarjin John</a>
 </ul>
 
